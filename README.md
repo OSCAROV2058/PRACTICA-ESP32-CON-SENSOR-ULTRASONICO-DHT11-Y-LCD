@@ -111,7 +111,7 @@ lcd.clear();
 
 ![](https://github.com/OSCAROV2058/PRACTICA-ESP32-CON-SENSOR-ULTRASONICO-DHT11-Y-LCD/blob/main/image.png?raw=true)
 
-3. Hacer la conexion del sensor ultrasonico, DHT11 y LCD con la ESP32 como se muestra en la siguente imagen.
+3. Hacer la conexion del sensor ultrasonico, DHT22 y LCD con la ESP32 como se muestra en la siguente imagen.
 
 ![](https://github.com/OSCAROV2058/PRACTICA-ESP32-CON-SENSOR-ULTRASONICO-DHT11-Y-LCD/blob/main/image%20(14).png?raw=true)
 
