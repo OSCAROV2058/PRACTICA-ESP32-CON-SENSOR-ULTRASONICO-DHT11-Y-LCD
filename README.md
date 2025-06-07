@@ -1,10 +1,10 @@
-# PRACTICA-ESP32-CON-SENSOR-ULTRASONICO-DHT11-Y-LCD
+# PRACTICA-ESP32-CON-SENSOR-ULTRASONICO-DHT22-Y-LCD
 
 ## Introduccion
 
 ### Descripcion
 
-Este repositorio muestra como podemos programar una ESP32 con el sensor ultrasonico (HC-SR04), el sensor DTH11 y una pantalla LCD
+Este repositorio muestra como podemos programar una ESP32 con el sensor ultrasonico (HC-SR04), el sensor DTH22 y una pantalla LCD
 
 ## Material necesario
 
@@ -14,7 +14,7 @@ Este repositorio muestra como podemos programar una ESP32 con el sensor ultrason
 
 -Sensor ultrasonico (HC-SR04)
 
--Sensor DTH11
+-Sensor DTH22
 
 -Pantalla LCD (16x2)
 
@@ -121,7 +121,7 @@ lcd.clear();
 
 2. Visualizar los datos en el monitor serial. (CURSO, NOMBRE Y CARRERA, FECHA).
 
-3. Colocar la temperatura y humedad dando doble click al sensor DHT11.
+3. Colocar la temperatura y humedad dando doble click al sensor DHT22.
    
 4. Colocar la distancia dando doble click al sensor ultrasonico.
 
