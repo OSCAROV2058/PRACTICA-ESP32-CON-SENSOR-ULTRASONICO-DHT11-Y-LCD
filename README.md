@@ -109,11 +109,11 @@ lcd.clear();
 
 2. Instalar la libreria de LiquidCrystal I2C y DTH sensor library for ESPx como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/OSCAROV2058/PRACTICA-ESP32-CON-SENSOR-ULTRASONICO-DHT11-Y-LCD/blob/main/image.png?raw=true)
 
 3. Hacer la conexion del sensor ultrasonico, DHT11 y LCD con la ESP32 como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/OSCAROV2058/PRACTICA-ESP32-CON-SENSOR-ULTRASONICO-DHT11-Y-LCD/blob/main/image%20(14).png?raw=true)
 
 ## Instrucciónes de operación
 
@@ -121,23 +121,23 @@ lcd.clear();
 
 2. Visualizar los datos en el monitor serial. (CURSO, NOMBRE Y CARRERA, FECHA).
 
-3. Colocar la distancia dando doble click al sensor ultrasonico.
+3. Colocar la temperatura y humedad dando doble click al sensor DHT11.
    
-4. Colocar la temperatura y humedad dando doble click al sensor DHT11.
+4. Colocar la distancia dando doble click al sensor ultrasonico.
 
 ## Resultados
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en las siguentes imagenes.
 
-![]()
+![](https://github.com/OSCAROV2058/PRACTICA-ESP32-CON-SENSOR-ULTRASONICO-DHT11-Y-LCD/blob/main/image%20(15).png?raw=true)
 
-![]()
+![](https://github.com/OSCAROV2058/PRACTICA-ESP32-CON-SENSOR-ULTRASONICO-DHT11-Y-LCD/blob/main/image%20(16).png?raw=true)
 
-![]()
+![](https://github.com/OSCAROV2058/PRACTICA-ESP32-CON-SENSOR-ULTRASONICO-DHT11-Y-LCD/blob/main/image%20(17).png?raw=true)
 
-![]()
+![](https://github.com/OSCAROV2058/PRACTICA-ESP32-CON-SENSOR-ULTRASONICO-DHT11-Y-LCD/blob/main/image%20(18).png?raw=true)
 
-![]()
+![](https://github.com/OSCAROV2058/PRACTICA-ESP32-CON-SENSOR-ULTRASONICO-DHT11-Y-LCD/blob/main/image%20(19).png?raw=true)
 
 ## Creditos
 
